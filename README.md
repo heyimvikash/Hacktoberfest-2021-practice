@@ -109,8 +109,8 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### **A**
-  Example --
   - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
+  - [Aditya Raj](https://github.com/adityaraj079)
   
 - ### **B**
   
@@ -124,8 +124,8 @@ Hurray! You successfully made a contribution!
   
 - ### **G**
   
-- ### **H**
-
+- ### **H** 
+  - [Harshit Aditya](https://github.com/HarshitAditya27)
 - ### **I**
   
 - ### **J**
@@ -148,6 +148,9 @@ Hurray! You successfully made a contribution!
 - ### **R**
   
 - ### **S**
+  - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
+  - [Souvik Mandal](https://github.com/8-bit-souvik)
+  - [Shivam Hande](https://github.com/0shivamh)
 
 - ### **T**
   
